@@ -1,0 +1,3 @@
+[submodule "Assets/gm_WebcamTool"]
+	path = Assets/gm_WebcamTool
+	url = https://github.com/GimChuang/gm_WebcamTool
