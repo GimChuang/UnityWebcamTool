@@ -21,7 +21,7 @@ Note
 ---
 This project use Git submodule [gm_WebcamTool](https://github.com/GimChuang/gm_WebcamTool). You need to call
 ```
-git clone --recurse-submodules https://github.com/GimChuang/UnityWebcamTool.git
+git clone --recurse-submodules <URL>
 ``` 
 when you clone this reposiory.
 
